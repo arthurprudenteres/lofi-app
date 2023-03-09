@@ -5,4 +5,5 @@
 body {
   background-color: #020202;
   color: #FFFFFF;
+  -webkit-tap-highlight-color: transparent;
 }
